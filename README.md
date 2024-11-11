@@ -13,3 +13,8 @@ Aula 03: Criando a base de dados com JavaScript
 Aula 04: Implementando a funcionalidade de busca
 
 Aula 05: Finalizando o projeto com GitHub e Deploy
+
+## Certificado 🎓
+
+[Certificate Alura ](https://cursos.alura.com.br/user/ewd02s/immersion/certificate/48641)
+
